@@ -16,5 +16,11 @@
     "url": "https://github.com/vivekkannamreddi/Instagram/issues"
   },
   "homepage": "https://github.com/vivekkannamreddi/Instagram#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7"
+  }
 }
